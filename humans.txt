@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    vishal saini -- vishalsaini1100@gmail.com -- @vishalsaini
 
 # THANKS
 
