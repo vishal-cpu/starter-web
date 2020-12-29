@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 jlksdzhfwkeoawrflcvnec
 
 kdghfiuweabrvjdfgvwekjrfgvbweiurvj
+
+## Copyright
+2020 git.demo
